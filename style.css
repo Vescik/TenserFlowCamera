@@ -41,3 +41,9 @@ body {
  cursor: pointer;
  background-color: transparent;
 }
+.emotion{
+ position: relative;
+ text-align: center;
+ margin-top: -150px;
+ color: white;
+}
